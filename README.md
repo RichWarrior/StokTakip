@@ -1,19 +1,19 @@
 # StokTakip
 C# Programlama Dili İle Geliştirilmiş ve Geliştirilmeye Devam Eden Bir Stok Takip Otomasyonu
 
-Sürüm 1.0 Beta ve Eksiklikleri
--Şirket Yöneticileri İçin Şifremi Unuttum Menüsü Kodlanacak!
--Çalışanlar İçin Şifremi Unuttum Menüsü Kodlanacak!
+Sürüm 1.0 Beta ve Eksiklikleri</br>
+-Şirket Yöneticileri İçin Şifremi Unuttum Menüsü Kodlanacak!</br>
+-Çalışanlar İçin Şifremi Unuttum Menüsü Kodlanacak!</br>
 
-Admin Paneli Eksiklikleri
--Ürün Ekleme ve Ürün Güncelleme Kodlanacak!
--Çalışan Güncelleme, Bildirim Gönderme, Yedekleme Sistemi Kodlanacak!
+Admin Paneli Eksiklikleri</br>
+-Ürün Ekleme ve Ürün Güncelleme Kodlanacak!</br>
+-Çalışan Güncelleme, Bildirim Gönderme, Yedekleme Sistemi Kodlanacak!</br>
 
-Çalışan Paneli Eksiklikleri
--Ürün Güncelleme Kodlanacak!
--İstek&Öneri Paneli Kodlanacak!
--Satış Paneli Kodlanacak! Sanal Pos Kullanılacak!
+Çalışan Paneli Eksiklikleri</br>
+-Ürün Güncelleme Kodlanacak!</br>
+-İstek&Öneri Paneli Kodlanacak!</br>
+-Satış Paneli Kodlanacak! Sanal Pos Kullanılacak!</br>
 
-İletişim
-Tel:(533)644 4156 WhatsApp
-E-Mail: faruk_thecno@hotmail.com & farukteknoloji@gmail.com
+İletişim</br>
+Tel:(533)644 4156 WhatsApp</br>
+E-Mail: faruk_thecno@hotmail.com & farukteknoloji@gmail.com</br>
