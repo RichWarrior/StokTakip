@@ -1,5 +1,5 @@
 # StokTakip
-C# Programlama Dili İle Geliştirilmiş ve Geliştirilmeye Devam Eden Bir Stok Takip Otomasyonu
+C# Programlama Dili İle Geliştirilmiş Bir Stok Takip Otomasyonu
 
 Sürüm 1.0 Beta ve Eksiklikleri</br>
 -Şirket Yöneticileri İçin Şifremi Unuttum Menüsü Kodlanacak!</br>
